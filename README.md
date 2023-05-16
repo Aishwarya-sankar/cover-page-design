@@ -145,7 +145,7 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ## Output: 
 ### Client Output:
-
+![Screenshot from 2023-05-16 14-21-32](https://github.com/Aishwarya-sankar/cover-page-design/assets/121418444/8eae912f-70ef-4f0e-a323-979dd6690ca0)
 
 
 ### SERVER OUTPUT:
