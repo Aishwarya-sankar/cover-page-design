@@ -143,9 +143,10 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 </html>
 
-## Output:
+## Output: 
 ### Client Output:
-![Uploading Screenshot from 2023-05-16 14-21-32.png…]()
+
+
 
 ### SERVER OUTPUT:
 ![Screenshot from 2023-05-16 14-17-32](https://github.com/Aishwarya-sankar/cover-page-design/assets/121418444/03abad70-7a30-4c26-8475-3ea40f6d379c)
