@@ -5,7 +5,7 @@ To develop a website to display the cover page design of a book
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Create a new Django project and app.
 ### Step 2:
 Create a static file directory and mention the changes in settings.
 
